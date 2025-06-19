@@ -17,7 +17,6 @@
     "downlevelIteration": true,
     "verbatimModuleSyntax": true,
     "moduleDetection": "force",
-    "moduleResolution": "bundler",
     "noEmit": true,
     "noImplicitAny": false,
     "resolveJsonModule": true,
